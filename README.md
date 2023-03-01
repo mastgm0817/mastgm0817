@@ -1,4 +1,10 @@
-### Hi there 👋
+# ByungYeon Kho
+
+<h3 align="center"> Tech Stack </h3>
+
+<p align="center"> Techs that I have used at least once </p>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **mastgm0817/mastgm0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
