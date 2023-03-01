@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=ByungYeonKho&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=ByungYeonKho&fontSize=70&animation=twinkling)
 
 <p align="center">🌐🧑‍💻 🇰🇷 🇦🇺</p>
 
@@ -33,6 +33,8 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmastgm0817%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=ByungYeonKho&fontSize=70&animation=twinkling)
 <!--
 **mastgm0817/mastgm0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
