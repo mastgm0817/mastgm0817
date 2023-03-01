@@ -1,6 +1,8 @@
-# ByungYeon Kho
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ByungYeonKho&fontSize=70&animation=twinkling)
 
-<h3 align="center"> Tech Stack </h3>
+<p align="center">🇰🇷 🇦🇺</p>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I have used at least once </p>
 
@@ -26,6 +28,10 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 <!--
 **mastgm0817/mastgm0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
