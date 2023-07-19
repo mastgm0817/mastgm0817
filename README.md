@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GithubAction-2496ED?style=flat-square&logo=GithubAction&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ArgoCD-2496ED?style=flat-square&logo=ArgoCD&logoColor=white"/></a>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
